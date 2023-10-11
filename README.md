@@ -1,7 +1,9 @@
 ### Hi there 👋
-[![Elmir's GitHub stats](https://github-readme-stats.vercel.app/api?username=elmirge7)](https://github.com/anuraghazra/github-readme-stats)
+[![Elmir's GitHub stats](https://github-readme-stats.vercel.app/api?username=elmirge7)]
 
 ![Elmir's GitHub stats](https://github-readme-stats.vercel.app/api?username=elmirge7&show_icons=true)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=elmirge7&show_icons=true&theme=tokyonight)
 
 <!--
 **elmirge7/elmirge7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
