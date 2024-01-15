@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=elmirge7&label=Profile%20views&color=0e75b6&style=flat" alt="elmirge7" /> </p>
 
-- 🔭 I’m currently working on [Balonu](https://balonu.netlify.app)
+- 🔭 I’m currently working on [Balonu](https://balonukiki.netlify.app)
 
 - 🌱 I’m currently learning **C, Node JS and Vue JS**
 
